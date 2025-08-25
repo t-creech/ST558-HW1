@@ -1,0 +1,38 @@
+---
+title: "Data Science - Homework 1"
+format: html
+---
+# Step 3
+
+## What is data science about?
+
+Data science a field that involves using the scientific method to extract knowledge and insights from data for purposes such as making prediction, driving decision making, and communicate findings. In the end it is all about data and all the different ways we can use it to drive real-world results. In short we can summarize with the following list:
+
+- Using methods from statistics, computer science, and machine learning to gain insight from data
+- Creating reproducible pipelines for the insights
+- Communicating these insights to stakeholders
+
+## What difference/similarities do you see between data scientists and statisticians?
+
+Primarily, both statisticians and data scientists utilize data in their day-to-day work and use similar statistical techniques. The main differences lie in the overall goals of each. A statistician is mainly focused on developing statistical models that help to explain data, while a data scientist aims to solve business problems or discover new things by implementing models on data. Additionally, the data that each works on is often different with statisticians typically working with smaller, more structured data sets and data scientists working with larger, sometimes unstructured data.
+
+## How do you view yourself in relation to these two areas?
+
+I view myself as more of a data science. I like to use models as "tools in my tool belt" to look at real-world data and come up with solutions and insight, much more than I like to develop novel models.
+
+# R Code
+In our first code chunk, we are setting a variable (y) to take on the value of the estimate of the distribution of petal width in the iris data set.
+```{R}
+y <- density(iris$Petal.Width)
+```
+Next we are interesting in the class, type and structure of the variable that was set. Running the code, we can see that the variable has a class of density, is of type list, and has a structure of 512 x and y values.
+```{R}
+class(y)
+typeof(y)
+str(y)
+```
+Next, we can plot this density using the plot function. Here we have set the echo to false to hide the code behind the plot in the final rendering.
+```{R}
+#| echo: false
+plot(y)
+```

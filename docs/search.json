@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "DataScienceLearnings.html",
+    "href": "DataScienceLearnings.html",
+    "title": "Data Science - Homework 1",
+    "section": "",
+    "text": "Data science a field that involves using the scientific method to extract knowledge and insights from data for purposes such as making prediction, driving decision making, and communicate findings. In the end it is all about data and all the different ways we can use it to drive real-world results. In short we can summarize with the following list:\n\nUsing methods from statistics, computer science, and machine learning to gain insight from data\nCreating reproducible pipelines for the insights\nCommunicating these insights to stakeholders\n\n\n\n\nPrimarily, both statisticians and data scientists utilize data in their day-to-day work and use similar statistical techniques. The main differences lie in the overall goals of each. A statistician is mainly focused on developing statistical models that help to explain data, while a data scientist aims to solve business problems or discover new things by implementing models on data. Additionally, the data that each works on is often different with statisticians typically working with smaller, more structured data sets and data scientists working with larger, sometimes unstructured data.\n\n\n\nI view myself as more of a data science. I like to use models as “tools in my tool belt” to look at real-world data and come up with solutions and insight, much more than I like to develop novel models."
+  },
+  {
+    "objectID": "DataScienceLearnings.html#what-is-data-science-about",
+    "href": "DataScienceLearnings.html#what-is-data-science-about",
+    "title": "Data Science - Homework 1",
+    "section": "",
+    "text": "Data science a field that involves using the scientific method to extract knowledge and insights from data for purposes such as making prediction, driving decision making, and communicate findings. In the end it is all about data and all the different ways we can use it to drive real-world results. In short we can summarize with the following list:\n\nUsing methods from statistics, computer science, and machine learning to gain insight from data\nCreating reproducible pipelines for the insights\nCommunicating these insights to stakeholders"
+  },
+  {
+    "objectID": "DataScienceLearnings.html#what-differencesimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "href": "DataScienceLearnings.html#what-differencesimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "title": "Data Science - Homework 1",
+    "section": "",
+    "text": "Primarily, both statisticians and data scientists utilize data in their day-to-day work and use similar statistical techniques. The main differences lie in the overall goals of each. A statistician is mainly focused on developing statistical models that help to explain data, while a data scientist aims to solve business problems or discover new things by implementing models on data. Additionally, the data that each works on is often different with statisticians typically working with smaller, more structured data sets and data scientists working with larger, sometimes unstructured data."
+  },
+  {
+    "objectID": "DataScienceLearnings.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "href": "DataScienceLearnings.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "title": "Data Science - Homework 1",
+    "section": "",
+    "text": "I view myself as more of a data science. I like to use models as “tools in my tool belt” to look at real-world data and come up with solutions and insight, much more than I like to develop novel models."
+  }
+]
